@@ -11,6 +11,6 @@ __its our third day__
 | ------------- |:-------------------------:|      
 | mindset       | [mindset](mindset.md)     |
 | juornala      | [juornala](journala.md)   |   
-| markdown      | [markdown] (markdown.md)  |    
+| markdown      | [markdown](markdown.md)  |    
 
 
