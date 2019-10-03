@@ -23,8 +23,7 @@
 
 | Tables        | Are                       |
 | ------------- |:-------------------------:|      
-| mindset       | [mindset](mindset.md)     |
-| juornala      | [juornala](journala.md)   |   
+| mindset       | [mindset](mindset.md)     |   
 | markdown      | [markdown](markdown.md)  |    
 
  *copyright 2019*
