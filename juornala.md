@@ -21,11 +21,10 @@
 [my github](https://github.com/bayanmhmd)
 
 
-| Tables        | Are                       |
-| ------------- |:-------------------------:|      
-| mindset       | [mindset](mindset.md)     |
-| juornala      | [juornala](journala.md)   |   
-| markdown      | [markdown](markdown.md)  |  
+| Tables        | Are                                     |
+| ------------- |:---------------------------------------:|      
+| mindset       | [mindset](https://bayanmhmd.github.io/learning-journala/growth-mindset)                         |
+| markdown      | [markdown](https://bayanmhmd.github.io/learning-journala/markdown)                               |  
   
 *Hi  my name is bayan , i studied mathmatice*
 
