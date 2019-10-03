@@ -23,8 +23,8 @@
 
 | Tables        | Are                                     |
 | ------------- |:---------------------------------------:|      
-| mindset       | [mindset](https://bayanmhmd.github.io/learning-journala/growth-mindset)                         |
-| markdown      | [markdown](https://bayanmhmd.github.io/learning-journala/markdown)                               |  
+| mindset       | [mindset](mindset.md)                   |
+| markdown      | [markdown](markdown.md)                 |  
   
 *Hi  my name is bayan , i studied mathmatice*
 
